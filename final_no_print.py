@@ -20,6 +20,12 @@ Change the 5 following paths:
 biggbk = "/Users/fredrikfossheim/Desktop/Master/master/antismash_output/webscraped_fixed/"
 # 1) Folder containing all gbk files you want to translate into metabolic pathways
 #    They are saved as models, and can be merged with the GEM later.
+#    In this repository, the models that are found in "gbk_db_output_models.zip" are the pathways that 
+#    Have been constructed. In that case, this folder contained all antiSMASH output files found in 
+#    antismash_output_mibig_gbk_files1.zip
+#    antismash_output_mibig_gbk_files2.zip
+#    and
+#    antismash_output_mibig_gbk_files3.zip
 output_gbk = "/Users/fredrikfossheim/Desktop/Master/master/gbk_db_output_models/"
 # 2) Folder that regular models are output (empty folder)
 output_gbk_lump = "/Users/fredrikfossheim/Desktop/Master/master/gbk_db_output_models_lump/"
