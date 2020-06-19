@@ -2,7 +2,7 @@
 Constructed metabolic pathways for information on BGCs based on antiSMASH output.
 
 
-"gbk_db_output_files.zip" contain the metabolic models constructed by BiGMeC.
+"gbk_db_output_models.zip" contain the metabolic models constructed by BiGMeC.
 Many of the metabolic models are empty, as we simply ran the 
 code on the antSMASH output of ALL clusters in the MIBiG database.
 Code is only suitable for clusters of type NRPS, TransAT-PKS and T1PKS
